@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Work\\WepApiStudy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF933D8-B705-47CB-AB1E-C2BBD42D96A3}|ServerStudy\\ServerStudy.csproj|c:\\work\\wepapistudy\\serverstudy\\controllers\\rankingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF933D8-B705-47CB-AB1E-C2BBD42D96A3}|ServerStudy\\ServerStudy.csproj|solutionrelative:serverstudy\\controllers\\rankingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF933D8-B705-47CB-AB1E-C2BBD42D96A3}|ServerStudy\\ServerStudy.csproj|c:\\work\\wepapistudy\\serverstudy\\models\\gameresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF933D8-B705-47CB-AB1E-C2BBD42D96A3}|ServerStudy\\ServerStudy.csproj|solutionrelative:serverstudy\\models\\gameresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B43FF24D-CEF8-48CE-A9ED-994AAE0EEFBF}|WepApiStudy\\WepApiStudy.csproj|c:\\work\\wepapistudy\\wepapistudy\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B43FF24D-CEF8-48CE-A9ED-994AAE0EEFBF}|WepApiStudy\\WepApiStudy.csproj|solutionrelative:wepapistudy\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF933D8-B705-47CB-AB1E-C2BBD42D96A3}|ServerStudy\\ServerStudy.csproj|c:\\work\\wepapistudy\\serverstudy\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF933D8-B705-47CB-AB1E-C2BBD42D96A3}|ServerStudy\\ServerStudy.csproj|solutionrelative:serverstudy\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF933D8-B705-47CB-AB1E-C2BBD42D96A3}|ServerStudy\\ServerStudy.csproj|c:\\work\\wepapistudy\\serverstudy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF933D8-B705-47CB-AB1E-C2BBD42D96A3}|ServerStudy\\ServerStudy.csproj|solutionrelative:serverstudy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ServerStudyDb/True/SqlTable/dbo.GameResults.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF933D8-B705-47CB-AB1E-C2BBD42D96A3}|ServerStudy\\ServerStudy.csproj|c:\\work\\wepapistudy\\serverstudy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CEF933D8-B705-47CB-AB1E-C2BBD42D96A3}|ServerStudy\\ServerStudy.csproj|solutionrelative:serverstudy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF933D8-B705-47CB-AB1E-C2BBD42D96A3}|ServerStudy\\ServerStudy.csproj|c:\\work\\wepapistudy\\serverstudy\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF933D8-B705-47CB-AB1E-C2BBD42D96A3}|ServerStudy\\ServerStudy.csproj|solutionrelative:serverstudy\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B43FF24D-CEF8-48CE-A9ED-994AAE0EEFBF}|WepApiStudy\\WepApiStudy.csproj|c:\\work\\wepapistudy\\wepapistudy\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B43FF24D-CEF8-48CE-A9ED-994AAE0EEFBF}|WepApiStudy\\WepApiStudy.csproj|solutionrelative:wepapistudy\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameResult.cs",
+              "DocumentMoniker": "C:\\Work\\WepApiStudy\\ServerStudy\\Models\\GameResult.cs",
+              "RelativeDocumentMoniker": "ServerStudy\\Models\\GameResult.cs",
+              "ToolTip": "C:\\Work\\WepApiStudy\\ServerStudy\\Models\\GameResult.cs",
+              "RelativeToolTip": "ServerStudy\\Models\\GameResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T23:49:19.694Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Work\\WepApiStudy\\ServerStudy\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ServerStudy\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Work\\WepApiStudy\\ServerStudy\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ServerStudy\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T00:17:57.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Work\\WepApiStudy\\WepApiStudy\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WepApiStudy\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Work\\WepApiStudy\\WepApiStudy\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WepApiStudy\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T23:51:20.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RankingController.cs",
+              "DocumentMoniker": "C:\\Work\\WepApiStudy\\ServerStudy\\Controllers\\RankingController.cs",
+              "RelativeDocumentMoniker": "ServerStudy\\Controllers\\RankingController.cs",
+              "ToolTip": "C:\\Work\\WepApiStudy\\ServerStudy\\Controllers\\RankingController.cs",
+              "RelativeToolTip": "ServerStudy\\Controllers\\RankingController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAADgv0UAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T23:50:07.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dbo.GameResults.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ServerStudyDb/True/SqlTable/dbo.GameResults.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ServerStudyDb/True/SqlTable/dbo.GameResults.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-10-26T00:38:43.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Work\\WepApiStudy\\ServerStudy\\appsettings.json",
+              "RelativeDocumentMoniker": "ServerStudy\\appsettings.json",
+              "ToolTip": "C:\\Work\\WepApiStudy\\ServerStudy\\appsettings.json",
+              "RelativeToolTip": "ServerStudy\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-26T00:17:25.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Work\\WepApiStudy\\WepApiStudy\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WepApiStudy\\WeatherForecast.cs",
+              "ToolTip": "C:\\Work\\WepApiStudy\\WepApiStudy\\WeatherForecast.cs",
+              "RelativeToolTip": "WepApiStudy\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T23:51:15.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Work\\WepApiStudy\\ServerStudy\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "ServerStudy\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Work\\WepApiStudy\\ServerStudy\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "ServerStudy\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T23:49:19.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Work\\WepApiStudy\\ServerStudy\\Program.cs",
+              "RelativeDocumentMoniker": "ServerStudy\\Program.cs",
+              "ToolTip": "C:\\Work\\WepApiStudy\\ServerStudy\\Program.cs",
+              "RelativeToolTip": "ServerStudy\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T23:49:20.311Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

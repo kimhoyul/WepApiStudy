@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37710.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WepApiStudy", "WepApiStudy\WepApiStudy.csproj", "{B43FF24D-CEF8-48CE-A9ED-994AAE0EEFBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerStudy", "ServerStudy\ServerStudy.csproj", "{CEF933D8-B705-47CB-AB1E-C2BBD42D96A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B43FF24D-CEF8-48CE-A9ED-994AAE0EEFBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B43FF24D-CEF8-48CE-A9ED-994AAE0EEFBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B43FF24D-CEF8-48CE-A9ED-994AAE0EEFBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B43FF24D-CEF8-48CE-A9ED-994AAE0EEFBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEF933D8-B705-47CB-AB1E-C2BBD42D96A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEF933D8-B705-47CB-AB1E-C2BBD42D96A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEF933D8-B705-47CB-AB1E-C2BBD42D96A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEF933D8-B705-47CB-AB1E-C2BBD42D96A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2B258B4-4305-49A7-B813-99C3856FA0AA}
+	EndGlobalSection
+EndGlobal

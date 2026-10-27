@@ -1,0 +1,6 @@
+@WepApiStudy_HostAddress = http://localhost:5037
+
+GET {{WepApiStudy_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
